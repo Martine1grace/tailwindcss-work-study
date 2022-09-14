@@ -1,7 +1,6 @@
 {
   "name": "taskone",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "vite"
@@ -16,5 +15,14 @@
     "autoprefixer": "^10.4.8",
     "postcss": "^8.4.16",
     "vite": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martine1grace/tailwindcss-work-study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Martine1grace/tailwindcss-work-study/issues"
+  },
+  "homepage": "https://github.com/Martine1grace/tailwindcss-work-study#readme",
+  "description": ""
 }
